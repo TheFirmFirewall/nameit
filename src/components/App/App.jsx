@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {useState, usestate} from 'react';
 import Header from '../Header/Header';
 import SearchBox from '../SearchBox/SearchBox';
 import ResultsContainer from '../ResultsContainer/ResultsContainer';
