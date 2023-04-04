@@ -2,7 +2,7 @@
   "name": "nameit",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Kaivalya09.github.io/name-it/",
+  "homepage": "http://kaivalya09.github.io/name-it/",
   "dependencies": {
     "@rstacruz/startup-name-generator": "^0.3.0",
     "@testing-library/jest-dom": "^5.16.5",
